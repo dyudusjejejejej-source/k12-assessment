@@ -1,0 +1,4 @@
+Copyright (c) 2025 Your Name.  
+All rights reserved.  
+
+No one may copy, modify, distribute, or use this code in any way without explicit permission from the author.
